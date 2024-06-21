@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425FD1EE-B149-43A8-8B3F-F58F9A0436A3}|TestProject1\\TestProject1.csproj|c:\\users\\joaop\\downloads\\trabalho_poo_ads\\trabalho_poo_ads\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FD1EE-B149-43A8-8B3F-F58F9A0436A3}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|c:\\users\\joaop\\downloads\\trabalho_poo_ads\\trabalho_poo_ads\\trabalho_poo_ads\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\conexaobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\gestorfesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\gestorfesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\salgados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\salgados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\calculopreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\calculopreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\festa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\festa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\gerenciadorbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\gerenciadorbebidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\espaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\espaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\festaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\festaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\trabalho_poo_ads\\formatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A714F957-3210-46B0-BDDF-C53450595994}|Trabalho_POO_ADS\\Trabalho_POO_ADS.csproj|solutionrelative:trabalho_poo_ads\\formatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:23:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Espaco.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Espaco.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\Espaco.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Espaco.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\Espaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:03:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FestaEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\FestaEmpresa.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\FestaEmpresa.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\FestaEmpresa.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\FestaEmpresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:47:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Formatura.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Formatura.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\Formatura.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Formatura.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\Formatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:45:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GerenciadorBebidas.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\GerenciadorBebidas.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\GerenciadorBebidas.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\GerenciadorBebidas.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\GerenciadorBebidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Festa.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Festa.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\Festa.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Festa.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\Festa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculoPreco.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\CalculoPreco.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\CalculoPreco.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\CalculoPreco.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\CalculoPreco.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salgados.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Salgados.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\Salgados.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Salgados.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\Salgados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Program.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwFsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestorFesta.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\GestorFesta.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\GestorFesta.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\GestorFesta.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\GestorFesta.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:19.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexaoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\ConexaoBanco.cs",
+              "RelativeDocumentMoniker": "Trabalho_POO_ADS\\ConexaoBanco.cs",
+              "ToolTip": "C:\\Users\\joaop\\Downloads\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\Trabalho_POO_ADS\\ConexaoBanco.cs",
+              "RelativeToolTip": "Trabalho_POO_ADS\\ConexaoBanco.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:23:33.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
